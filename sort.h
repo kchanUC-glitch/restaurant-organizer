@@ -1,6 +1,9 @@
+#ifndef sort.h
+#define sort.h
+
 #include <iostream>
 #include <vector>
-#include "io.h"
 
-std::vector<Restaurant> sort (std::vector<Restaurant> input);
+std::vector<Restaurant> sortRestaurants (std::vector<Restaurant> input);
 
+#endif sort.h 

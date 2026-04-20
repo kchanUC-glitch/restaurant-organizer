@@ -1,6 +1,3 @@
-#ifndef sort.h
-#endif sort.h 
-
 #include <iostream>
 #include <vector>
 #include "io.h"
