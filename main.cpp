@@ -6,7 +6,8 @@ struct Restaurant;
 int main() {
     std::string fileName = "restaurants.txt";
 
-    std::vector<Restaurant> restaurants = sortRestaurants();
+
+    std::vector<Restaurant> restaurants = sortByRating();
 
     for (const Restaurant& restaurant : restaurants) {
         printRestaurant(restaurant);
