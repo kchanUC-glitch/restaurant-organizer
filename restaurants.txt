@@ -1,0 +1,52 @@
+Name | Cuisine | Rating | CostPerPerson
+
+Hummus Republic | Mediterranean | 4.9 | 15
+U Ni Rice | Japanese | 4.8 | 15
+Piada Italian Street Food | Italian | 4.7 | 15
+Currito University of Cincinnati | Mexican/Fusion | 4.3 | 15
+Good Plates Eatery | American/Healthy | 4.8 | 15
+HangOverEasy | Breakfast/American | 4.4 | 15
+Izen's Drunken Bento | Korean/Japanese | 4.5 | 15
+Cincy Steak and Lemonade | American | 4.4 | 15
+Adriatico's New York Style | Pizza | 4.2 | 15
+Taste of Belgium - Uptown | Belgian/American | 4.2 | 20
+Keystone Bar & Grill Clifton | American | 4.1 | 20
+Buffalo Wild Wings Clifton | American | 4.0 | 20
+Raising Cane's Clifton | Fast Food | 4.5 | 12
+Chipotle Mexican Grill Calhoun | Mexican | 4.1 | 12
+Five Guys Clifton | American | 4.4 | 15
+Panera Bread Clifton | Cafe | 4.2 | 15
+Potbelly Sandwich Shop | Sandwiches | 4.3 | 12
+Jersey Mike's Subs Clifton | Sandwiches | 4.5 | 12
+Subway Clifton | Sandwiches | 3.9 | 10
+Bibibop Asian Grill | Korean | 4.6 | 12
+Qdoba Mexican Eats Clifton | Mexican | 4.1 | 12
+Kung Food Amerasia | Chinese | 4.7 | 18
+Fortune Noodle House | Chinese | 4.6 | 15
+China Food Clifton | Chinese | 4.2 | 12
+Thai Express Clifton | Thai | 4.3 | 14
+Dusmesh Indian Restaurant | Indian | 4.5 | 15
+Ambar India Restaurant | Indian | 4.4 | 15
+Krishna Indian Restaurant | Indian | 4.3 | 14
+Al-Madina Market & Grill | Middle Eastern | 4.6 | 12
+Baladi Restaurant | Mediterranean | 4.5 | 15
+Chicago Gyros & Dogs | Mediterranean | 4.4 | 12
+Fusian Sushi Clifton | Sushi | 4.5 | 15
+Cloud 9 Sushi | Sushi | 4.6 | 18
+Ichiban Japanese Cuisine | Japanese | 4.3 | 18
+Kanji OTR (near UC) | Japanese | 4.6 | 20
+Melt Revival | American | 4.4 | 18
+Mac Shack | American | 4.3 | 15
+Island Frydays | Caribbean | 4.7 | 15
+The 86 Coffee Bar | Cafe | 4.8 | 10
+Sitwell's Coffeehouse | Cafe | 4.6 | 10
+Deeper Roots Coffee Clifton | Cafe | 4.7 | 10
+Starbucks Clifton | Cafe | 4.2 | 10
+Dunkin' Clifton | Cafe | 4.0 | 8
+Insomnia Cookies Clifton | Dessert | 4.5 | 8
+Graeter's Ice Cream Clifton | Dessert | 4.7 | 10
+Nothing Bundt Cakes | Dessert | 4.6 | 10
+Skyline Chili Clifton | American | 4.3 | 12
+Gold Star Chili Clifton | American | 4.1 | 12
+Zorbas Greek Restaurant | Greek | 4.4 | 15
+Pompeii's Inferno | Italian | 4.2 | 18
