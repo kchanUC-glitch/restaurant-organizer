@@ -1,6 +1,3 @@
-#ifndef sort.h
-#endif sort.h 
-
 #include <iostream>
 #include <vector>
 #include "io.h"
@@ -16,15 +13,15 @@ std::vector<Restaurant> sortRestaurants () {
     // iterate through vector input
     for (int i = 0; i < input.size(); i++) {
         // compare the rating of the new input and the existing, sorted vector
-        if ( input[i].rating > sorted[i].rating ) {
+        if ( input.at(i).rating > sorted.at(i).rating ) {
             // pull existing elements back by one 
-            for (int k = sorted.size(); k > sorted[i].rating; k--) {
-                sorted[k] = sorted[k-1];
+            for (int k = sorted.size() - 1; k > sorted.at(i).rating; k--) {
+                sorted.at(k) = sorted.at(k-1);
             }
             // insert restaurant
-            sorted[i] = input[i];
+            sorted.at(i) = input.at(i);
         } else {
-            sorted.push_back(input[i]);
+            sorted.push_back(input.at(i));
         };
     }
 
