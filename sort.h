@@ -1,3 +1,6 @@
 #include <iostream>
+#include <vector>
+#include "io.h"
 
-vector<Restaurant> sort (vector<Restaurant> input);
+std::vector<Restaurant> sort (std::vector<Restaurant> input);
+
