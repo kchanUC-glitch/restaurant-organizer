@@ -13,3 +13,4 @@ struct Restaurant {
 
 std::vector<Restaurant> getRestaurants(std::string);
 std::vector<std::string> getRestaurantData(std::string);
+void printRestaurant(const Restaurant&);
