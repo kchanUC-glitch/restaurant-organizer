@@ -6,11 +6,12 @@ struct Restaurant;
 int main() {
     std::string fileName = "restaurants.txt";
 
-    std::vector<Restaurant> restaurants = getRestaurants(fileName);
+    std::vector<Restaurant> restaurants = sortRestaurants();
 
-    // for (int i = 0; i < restaurants.size(); i++) {
-    //     std::cout << "Name: " << restaurants.at(i).name << "Cuisine: " << restaurants.at(i).cuisine << "Rating: " << restaurants.at(i).rating << "Cost per person: " << restaurants.at(i).costPerPerson;
-    // }
+    for (const Restaurant& restaurant : restaurants) {
+        printRestaurant(restaurant);
+        std::cout << std::endl;
+    }
 
     return 0;
 }
