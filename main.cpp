@@ -1,4 +1,5 @@
 #include "io.h"
+#include "sort.h"
 
 int main() {
     std::string fileName = "restaurants.txt";
