@@ -1,11 +1,11 @@
 #include <iostream>
 #include <vector>
 #include "io.h"
-#include "io.cpp"
 #include "sort.h"
 
 std::vector<Restaurant> sortRestaurants () {
-    std::vector<Restaurant> input = getRestaurants("restaurants.txt");
+    std::string fileName = "restaurants.txt";
+    std::vector<Restaurant> input = getRestaurants(fileName);
 
     // initialize vector sorted to the same size as vector input
     std::vector<Restaurant> sorted (input.size());
