@@ -4,6 +4,7 @@
 #include <fstream>
 #include <sstream>
 
+
 struct Restaurant {
     std::string name;
     std::string cuisine;

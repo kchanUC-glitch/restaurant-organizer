@@ -1,6 +1,8 @@
 #include "io.h"
 #include "sort.h"
 
+struct Restaurant;
+
 int main() {
     std::string fileName = "restaurants.txt";
 
